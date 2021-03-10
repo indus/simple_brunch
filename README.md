@@ -1,4 +1,4 @@
-# Brunch + Babel/ES6
+# Brunch + TS/SCSS
 
 This is my simple skeleton for [Brunch](http://brunch.io).
 
